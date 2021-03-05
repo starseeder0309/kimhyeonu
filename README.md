@@ -8,7 +8,7 @@
 
 ## 🍎 Bio
 
-...
+2020.07. ~ NOW : [주식회사 오늘의이야기] 테크 리드
 
 ## 🍎 Development Skills
 
