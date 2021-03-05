@@ -1,0 +1,11 @@
+{
+  "name": "kimhyeonu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kimhyeonu/kimhyeonu.git",
+  "author": "kimhyeonu <polaris@byeolmuri.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
