@@ -16,6 +16,13 @@
 좋은 경험을 선사하기 위한 소프트웨어를 개발하기 위해서는 설계와 구현, 테스트, 배포 등 모든 과정이 중요합니다.  
 개발에 사용할 수 있는 저의 기술을 소개합니다.  
 
+### 🍏 Environments
+
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JetBrains PyCharm-000000?style=flat-square&logo=jetbrains&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jetbrains WebStorm-000000?style=flat-square&logo=jetbrains&logoColor=white"/></a>
+
 ### 🍏 Programming/Markup Languages
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -68,8 +75,9 @@
 ### 🍏 DevOps
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
@@ -80,6 +88,8 @@
 협업에 사용할 수 있는 저의 기술을 소개합니다.  
 
 ### 🍏 Software Development Methods
+
+
 
 ### 🍏 Communication Tools
 
