@@ -8,7 +8,7 @@
 
 ## 🍎 Bio
 
-2020.07. ~ NOW : [주식회사 오늘의이야기] 테크 리드
+2020.07. ~ 2021.06 : [주식회사 오늘의이야기] 테크 리드
 
 ## 🍎 Development Skills
 
@@ -34,9 +34,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
