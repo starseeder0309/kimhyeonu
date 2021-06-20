@@ -44,6 +44,8 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/></a>
@@ -113,5 +115,6 @@
 * Discord
 * Slack
 * Cafe
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimhyeonu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
