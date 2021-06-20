@@ -34,7 +34,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/></a>
 
