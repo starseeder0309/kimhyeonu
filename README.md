@@ -75,7 +75,7 @@
 ### 🍏 DevOps
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
@@ -89,12 +89,29 @@
 
 ### 🍏 Software Development Methods
 
-
+* Scrum
+* Extreme Programming(XP)
+* Domain Driven Design(DDD)
 
 ### 🍏 Communication Tools
 
+* Google Workspace
+* Notion
+* Slack
+* GitHub
+* Jira
+
 ## 🍎 Related Channels
 
-...
+* GitHub
+* Blog
+* Facebook
+* Instagram
+* Twitter
+* YouTube
+
+* Discord
+* Slack
+* Cafe
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimhyeonu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
