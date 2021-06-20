@@ -44,6 +44,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apolo GraphQL-311C87?style=flat-square&logo=apolo-graphql&logoColor=white"/></a>
+
 ### 🍏 Database
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
