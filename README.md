@@ -62,9 +62,17 @@
 <img src="https://img.shields.io/badge/OpenGL ES-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/DirectX-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Metal-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 
 ### 🍏 DevOps
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 
 ## 🍎 Collaboration Skills
 
