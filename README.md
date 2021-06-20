@@ -58,6 +58,12 @@
 
 ### 🍏 Video Game Developments
 
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenGL ES-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/DirectX-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Metal-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
+
 ### 🍏 DevOps
 
 ## 🍎 Collaboration Skills
