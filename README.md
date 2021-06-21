@@ -113,15 +113,15 @@
 
 ## 🍎 Related Channels
 
-* GitHub
-* Blog
-* Facebook
-* Instagram
-* Twitter
-* YouTube
+* <img src="https://img.shields.io/badge/개발자 폴라리스의 깃허브-181717?style=flat-square&logo=github&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/개발자 폴라리스의 블로그-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/현우의 페이스북-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/현우의 인스타그램-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/개발자 폴라리스의-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/개발자 폴라리스의 유튜브-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
-* Discord
-* Slack
-* Cafe
+* <img src="https://img.shields.io/badge/개발자 폴라리스의 카페-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/개발자 폴라리스의 디스코드-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/개발자 폴라리스의 슬랙-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimhyeonu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
