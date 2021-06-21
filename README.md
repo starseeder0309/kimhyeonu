@@ -113,16 +113,16 @@
 
 ## 🍎 Related Channels
 
-* <img src="https://img.shields.io/badge/개발자 폴라리스의 깃허브-181717?style=flat-square&logo=github&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/개발자 폴라리스의 블로그-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/현우의 페이스북-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/현우의 인스타그램-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/개발자 폴라리스의-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/개발자 폴라리스의 유튜브-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Private GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Private Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Private Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Private Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Private Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Private YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
-* <img src="https://img.shields.io/badge/개발자 폴라리스의 카페-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/개발자 폴라리스의 디스코드-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/개발자 폴라리스의 슬랙-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Public Cafe-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Public Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Public Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
 ## 🍎 GitHub Stats
 
