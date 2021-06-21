@@ -124,4 +124,6 @@
 * <img src="https://img.shields.io/badge/개발자 폴라리스의 디스코드-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 * <img src="https://img.shields.io/badge/개발자 폴라리스의 슬랙-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 
+## 🍎 GitHub Stats
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimhyeonu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
