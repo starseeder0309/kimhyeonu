@@ -1,4 +1,4 @@
-# 🌲 개발자 폴라리스(Developer Polaris) | 김현우(KIM HYEONU)
+# 🌲 DEV POLARIS | 김현우(KIM HYEONU)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=KIM%20HYEONU&fontSize=90&animation=fadeIn)
 
