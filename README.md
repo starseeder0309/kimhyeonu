@@ -1,4 +1,4 @@
-# 🌲 DEV POLARIS | 김현우(KIM HYEONU)
+# POLARIS | 김현우
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=KIM%20HYEONU&fontSize=90&animation=fadeIn)
 
