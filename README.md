@@ -1,4 +1,4 @@
-# POLARIS | 김현우
+# 김현우(POLARIS)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=KIM%20HYEONU&fontSize=90&animation=fadeIn)
 
