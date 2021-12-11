@@ -11,7 +11,7 @@
 
 2020.07. ~ 2021.06 : [(주) 오늘의이야기] 웹 애플리케이션 개발 & 테크 리드
 
-2021.09. ~ current : [커리어데이 (주)] 웹 애플리케이션 개발
+2021.09. ~ current : [커리어데이 (주)] Node.js/Express 백엔드 개발 & React/React Native 프론트엔드 개발
 
 ## 🍎 Development Skills
 
